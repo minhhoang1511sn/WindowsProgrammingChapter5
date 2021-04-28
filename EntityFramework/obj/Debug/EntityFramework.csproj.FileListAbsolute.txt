@@ -1,0 +1,53 @@
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csprojAssemblyReference.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.DistrictForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Properties.Resources.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.csprojAssemblyReference.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.DistrictForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.Properties.Resources.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\bin\Debug\EntityFramework.exe.config
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\bin\Debug\EntityFramework.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\bin\Debug\EntityFramework.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\bin\Debug\EntityFramework.dll
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\bin\Debug\EntityFramework.xml
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\bin\Debug\Guna.UI2.dll
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.ProvinceForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.CommuneForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.BrandForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.CategoryForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.StoreForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.CustomerForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Order_itemsForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.StaffForm_BDF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.OrderForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.ProductForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework\EntityFramework\obj\Debug\EntityFramework.StockForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\bin\Debug\Guna.UI2.dll
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.BrandForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.CategoryForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.CommuneForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.CustomerForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.OrderForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.Order_itemsForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.ProductForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.ProvinceForm_DBF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.StaffForm_BDF.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 5\Excercise\EntityFramework - Copy\EntityFramework\obj\Debug\EntityFramework.StoreForm_DBF.resources
